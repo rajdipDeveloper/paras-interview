@@ -1,0 +1,60 @@
+{
+  "Student": [
+    {
+      "fname": "paras",
+      "lname": "vekariya",
+      "enroll": "180701154",
+      "attenet": "Present",
+      "id": 1
+    },
+    {
+      "fname": "dev",
+      "lname": "bakori",
+      "enroll": "180701156",
+      "attenet": "Present",
+      "id": 2
+    },
+    {
+      "fname": "deep",
+      "lname": "goriya",
+      "enroll": "180701155",
+      "attenet": "Absent",
+      "id": 3
+    },
+    {
+      "fname": "axit",
+      "lname": "vamja",
+      "enroll": "180701111",
+      "attenet": "Present",
+      "id": 4
+    },
+    {
+      "fname": "raj",
+      "lname": "patel",
+      "enroll": "180701176",
+      "attenet": "Absent",
+      "id": 5
+    },
+    {
+      "fname": "jay",
+      "lname": "varsani",
+      "enroll": "180701122",
+      "attenet": "Absent",
+      "id": 6
+    },
+    {
+      "fname": "rajdeep",
+      "lname": "patel",
+      "enroll": "180701123",
+      "attenet": "Present",
+      "id": 7
+    },
+    {
+      "fname": "paras",
+      "lname": "vekariya",
+      "enroll": "1154",
+      "attenet": "Present",
+      "id": 8
+    }
+  ]
+}
